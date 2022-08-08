@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notícias Futebol Femino</string>
+    <string name="title_news">Notícias</string>
+    <string name="title_favorites">Favoritos</string>
+    <string name="title_my_team">Meu Time</string>
+    <string name="news_image">Imagem notícia</string>
+    <string name="favority_image">Imagem favorito</string>
+    <string name="share_image">Imagem compartilhar</string>
+    <string name="btn_abrir">Abrir</string>
+</resources>

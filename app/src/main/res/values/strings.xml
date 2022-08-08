@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Women\'s Football News</string>
+    <string name="title_news">News</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_my_team">My Team</string>
+    <string name="news_image">News´image</string>
+    <string name="favority_image">favority image</string>
+    <string name="share_image">share image</string>
+    <string name="btn_abrir">Open</string>
+</resources>
